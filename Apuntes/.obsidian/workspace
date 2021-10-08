@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "1bff4804c86e6b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b486ede2ed696ac",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b74c9e97ff361359",
+    "type": "split",
+    "children": [
+      {
+        "id": "52e96d57a6488f75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8967011e70a7c0a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bf98b0aec1f657f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e3c2c8f87859a37",
+    "type": "split",
+    "children": [
+      {
+        "id": "93e54b71e92cde7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e415f0263578e303",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3b486ede2ed696ac",
+  "lastOpenFiles": [
+    "Soft.md",
+    "Reset.md",
+    "Untitled.md",
+    "GIT.md"
+  ]
+}
