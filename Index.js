@@ -1,6 +1,6 @@
 var Name="Jorge";
 var choncho={
-age:30,
+age:32,
 name:'pedrito',
 }
 console.log(Math.min(10,100,2)); 
